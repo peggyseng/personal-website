@@ -1,0 +1,308 @@
+       <!-- skills -->
+        <section class="section skills">
+            <!-- section title -->
+            <div class="section-title">
+                <h2>skills</h2>
+                <div class="underline"></div>
+            </div>
+            <!--end of section title -->
+            <div class="section-center skills-center">
+                <article>
+                    <h3>Programming & Development</h3>
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>HTML/CSS</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Javascript (Bootstrap, ECMAscript, Jquery)</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-60"></div>
+                            <p class="skill-text skill-text-60">
+                                60%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>ReactJS / NodeJS</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-50"></div>
+                            <p class="skill-text skill-text-50">
+                                50%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>AngularJS</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-50"></div>
+                            <p class="skill-text skill-text-50">
+                                50%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>SQL</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-60"></div>
+                            <p class="skill-text skill-text-60">
+                                60%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Python</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-70"></div>
+                            <p class="skill-text skill-text-70">
+                                70%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Java</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-50"></div>
+                            <p class="skill-text skill-text-50">
+                                50%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>C</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Microservices</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-40"></div>
+                            <p class="skill-text skill-text-40">
+                                40%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+
+                    <br>
+
+
+                    <h3>Mechanical Design / Electronics</h3>
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Autodesk Fusion 360</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>SolidWorks</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-60"></div>
+                            <p class="skill-text skill-text-60">
+                                60%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>3D Printing / Laser cutting</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Robotics (ROS, Chassis Design)</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-60"></div>
+                            <p class="skill-text skill-text-60">
+                                60%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+
+
+                </article>
+                <article>
+                    <h3>Business Development / Marketing </h3>
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Market Research & Analysis</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>SEO</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-70"></div>
+                            <p class="skill-text skill-text-70">
+                                70%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Content Creation (Copywriting, EDMs)</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Social Media Management (Hootsuite, Mailchimp)</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Sales & Customer Engagement (B2B & B2C)</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+
+
+
+                    <br>
+
+                    <h3>Design</h3>
+
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>InVision Studio</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-70"></div>
+                            <p class="skill-text skill-text-70">
+                                70%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Adobe Illustrator CC</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Canva</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-90"></div>
+                            <p class="skill-text skill-text-90">
+                                90%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+
+
+
+                    <br>
+
+                    <h3>Others</h3>
+
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Agile Methodologies (Jira, Scrum)</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-70"></div>
+                            <p class="skill-text skill-text-70">
+                                70%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Adobe Illustrator CC</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                    <!-- single skill -->
+                    <div class="skill">
+                        <p>Design Thinking and Product Innovation</p>
+                        <div class="skill-container">
+                            <div class="skill-value value-80"></div>
+                            <p class="skill-text skill-text-80">
+                                80%
+                            </p>
+                        </div>
+                    </div>
+                    <!--end of  single skill -->
+                </article>
+
+
+            </div>
+        </section>
+        <!-- end of skills -->
+        <!-- ############## -->
+        <!-- ############## -->
+        <!-- ############## -->
